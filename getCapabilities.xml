@@ -264,6 +264,11 @@
 				<Title>franck__geo_id</Title>
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:reparar</Name>
+				<Title>reparar</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
 		</VendorSpecificCapabilities>
 		<UserDefinedSymbolization SupportSLD="1" UserLayer="1" UserStyle="1" RemoteWFS="1"></UserDefinedSymbolization>
 		<Layer>
